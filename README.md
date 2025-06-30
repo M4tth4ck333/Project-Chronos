@@ -1,3 +1,5 @@
+[Visit the Discord channel](https://discord.com/channels/364927341429784576/692093946683326464)
+
 # Project Chronos
 Set of tools to enable USB stick on the PC Engine/Turbografx-16/Coregrafx mini consoles, as well as dump and restore partitions and game files and edit/add/remove games in a user friendly way.  
   
